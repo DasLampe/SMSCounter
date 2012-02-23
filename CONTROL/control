@@ -1,0 +1,9 @@
+Package: org.daslampe.smscounter
+Architecture: all
+Priority: optional
+Version: 0.0.5
+Maintainer: DasLampe <daslampe@lano-crew.org>
+Description: SMSCounter
+Depends: org.daslampe.smscounterd
+Section: System Utilities
+Source: { "Type" : "Application", "Category" : "Message", "LastUpdated" : "1306348138", "Title" : "SMSCounter", "FullDescription" : "SMS Counter for Palm Pre<hr>0.0.5: Now developed in English<br/>0.0.4: Es sollten nun immer werte angezeigt werden<br/>0.0.3: Starttag des Monats nun einstellbar<br/>0.0.1: initial commit version", "Homepage" : "http://daslampe.lano-crew.org/webOS/", "Icon" : "http://daslampe.lano-crew.org/webOs/smsCounter/icon.png", "License" : "BSD Open Source License" }

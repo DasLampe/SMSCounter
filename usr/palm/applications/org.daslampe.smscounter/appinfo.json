@@ -1,0 +1,9 @@
+{
+	"id": "org.daslampe.smscounter",
+	"version": "0.0.4",
+	"vendor": "daslampe",
+	"type": "web",
+	"main": "index.html",
+	"title": "SMSCounter",
+	"icon": "icon.png"
+}
